@@ -1,6 +1,6 @@
 # ProxyDIG Project
 
-##### Fake Project of an ETH Stealer using fake rat to take Eth from wallets to yours using private proxys
+##### Fake "Eth Stealer" 1:1 Template used by scammer /!\ Im not telling people to make Scams with my template /!\
 
 Old version of the script so there are some errors but everything is working fine just ajust as you want
 
